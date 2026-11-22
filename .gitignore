@@ -1,0 +1,14 @@
+# secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+.claude/
+.claude-account*/
+.credentials.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
